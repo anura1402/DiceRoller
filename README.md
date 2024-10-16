@@ -1,2 +1,5 @@
 # <a name="diceRoller"></a> Dice Roller
-<img src="https://private-user-images.githubusercontent.com/79709519/309564758-307a80e7-d632-46a2-b3e5-c450b6163dce.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0ODM4MDUsIm5iZiI6MTcwOTQ4MzUwNSwicGF0aCI6Ii83OTcwOTUxOS8zMDk1NjQ3NTgtMzA3YTgwZTctZDYzMi00NmEyLWIzZTUtYzQ1MGI2MTYzZGNlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE2MzE0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1NzMwMTFiNmVjZjRmMmE5NDFhMjFhNjQwOGUzOWRiMDYwY2VmYjI4ZjY5YzAzYzQ3NGM3Yjk0M2VkNTJiMDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.c9Yvl5A-JvsMy8bZN156WIyW7as-5nCID9jEiHL7k5Q" width="512">
+Простое приложение для знакомства с Jetpack Compose
+
+<img src="https://github.com/user-attachments/assets/2fbd67f8-40fb-4a93-a58e-5c27317f9a81" width="512">
+<img src="https://github.com/user-attachments/assets/26c65e21-26f5-4702-929b-254d7abcb7b2" width="512">
